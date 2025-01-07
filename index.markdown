@@ -1,23 +1,18 @@
-// filepath: /workspaces/gigishub.github.io/index.markdown
 ---
 layout: default
 title: Home
 ---
 
-# Welcome to My Awesome Site
+<img src="/assets/images/me_picture.png" alt="Banner Image" style="width: 150px; height: auto; border-radius: 50%;">
 
-![Banner Image](path/to/your/banner-image.jpg)
+## Data Analyst | Turning Complex Data into Actionable Insights
 
-## About This Site
+Hello, I'm Andre, a data analyst with experience in web scraping, handling financial data, and working with APIs. I am also experienced in data visualization, processing diverse data formats and asynchronous programming.
 
-This site is a showcase of my work and interests. Here you will find:
+### Latest Projects:
 
-- **Blog Posts**: Insights and stories from my journey.
-- **Projects**: A portfolio of my projects.
-- **Contact**: Ways to get in touch with me.
+[Bitcoin Momentum Strategy](/projects/bitcoin_momentum/)
 
-## Latest Posts
 
-{% for post in site.posts limit:3 %}
-  - [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
+
+<!-- passionate about sharing my projects, exploring new ideas, and connecting with others for exciting collaborations. -->
