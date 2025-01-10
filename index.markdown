@@ -13,6 +13,8 @@ Hello, I'm Andre, a data analyst with experience in web scraping, handling finan
 
 [Bitcoin Momentum Strategy](/projects/bitcoin_momentum/)
 
+[Real Time Candles](/projects/real_time_candles/)
+
 
 
 <!-- passionate about sharing my projects, exploring new ideas, and connecting with others for exciting collaborations. -->
