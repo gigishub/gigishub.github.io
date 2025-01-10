@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <style>
+    body {
+      margin: 0;
+      padding-top: 60px; /* Adjust based on header height */
+    }
+    header {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      background-color: #fff; /* Adjust background color as needed */
+      z-index: 1000;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: add shadow for better visibility */
+    }
+    header h1 {
+      margin: 0;
+      padding: 20px; /* Adjust padding as needed */
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>{{ site.title }}</h1>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+  </footer>
+</body>
+</html>
