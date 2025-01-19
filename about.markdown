@@ -6,9 +6,9 @@ permalink: /about/
 
 I began my professional journey in industrial automation, working on factory systems and similar projects. My technical expertise, combined with strong interpersonal skills, allowed me to lead teams successfully through various projects. 
 
-My interest in financial data led me to learn Pine Script—a coding language that sparked my curiosity and inspired me to dive deeper into Python and computer science.
+My interest in financial data led me to learn Pine Script a coding language that sparked my curiosity and inspired me to dive deeper into Python and computer science.
 
-While honing my technical skills through coding projects, I also wanted to enhance my customer-facing abilities. This drive led me to work in retreats, where I not only created memorable experiences for clients but also took on sales responsibilities to acquire new customers. 
+While honing my technical skills through coding projects, I also wanted to enhance my customer service abilities. This drive led me to work in retreats, where I not only created memorable experiences for clients but also took on sales responsibilities to acquire new customers. 
 
 With experience in customer service, sales, and data analytics, I am looking for more challenges and people to share a journey of continuous learning and creating innovative solutions for complex problems.
 
