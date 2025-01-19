@@ -7,7 +7,7 @@ title: Home
 
 ## Data Analyst | Customer service | Coordinator
 
-Hello, I'm Andre, a data analyst with expertise in data collection, processing, and visualization, complemented by experience in customer service and leadership.
+Hello, I'm Andre, a data analyst with expertise in data collection, processing, and visualization, complemented by experience in customer service and coordinating team effort.
 
 ### Latest Projects:
 
